@@ -4,7 +4,7 @@ I am Volker Sönnichsen, born as Volker Bohne and married. Currently working as 
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/volker-sönnichsen-076256bb/)](https://www.linkedin.com/in/volker-sönnichsen-076256bb/)
 [![Mastodon Badge](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white&link=https://mastodon.de/@volkman_de/)](https://mastodon.de/@volkman_de/)
-[![Gmail Badge]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:volkmanlg@gmail.com)](mailto:volkmanlg@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:volkmanlg@gmail.com)](mailto:volkmanlg@gmail.com)
 
 ## ⚡ Technologies
 
