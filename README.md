@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am Volker Sönnichsen, born as Volker Bohne and married. Currently working as an IT Architect at [Der Spiegel](https://www.spiegel.de/). I am a Devops Engineer and Architect and love writing code following for immutable infrastructure. Find out more about me & feel free to connect with me here:
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/volker-sönnichsen-076256bb/)](https://www.linkedin.com/in/volker-sönnichsen-076256bb/)
+![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white&link=https://mastodon.de@volkman.de/)](https://mastodon.de@volkman.de/)
+[![Gmail]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:volkmanlg@gmail.com)](mailto:volkmanlg@gmail.com)
+
 <!--
 **VolkerBohne/VolkerBohne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
